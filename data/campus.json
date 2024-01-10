@@ -1,0 +1,64 @@
+{
+    "campus": {
+        "campers": {
+            "12": {
+                "NroId": "12",
+                "Nombre": "1231",
+                "Apellido": "1231",
+                "Direccion": "123",
+                "Acudiente": {
+                    "001": {
+                        "id": "123",
+                        "nrotel": "123",
+                        "nombre": "123",
+                        "email": "123"
+                    }
+                },
+                "Telecontacto": {
+                    "001": {
+                        "id": "1",
+                        "nrotel": "123",
+                        "ubicacion": ""
+                    },
+                    "002": {
+                        "id": "1",
+                        "nrotel": "123",
+                        "ubicacion": "123"
+                    }
+                },
+                "Estado": "Inscrito"
+            },
+            "123": {
+                "NroId": "123",
+                "Nombre": "123",
+                "Apellido": "123",
+                "Direccion": "1231",
+                "Acudiente": {
+                    "001": {
+                        "id": "123",
+                        "nrotel": "123",
+                        "nombre": "1231",
+                        "email": "23"
+                    }
+                },
+                "Telecontacto": {
+                    "001": {
+                        "id": "1",
+                        "nrotel": "2312",
+                        "ubicacion": ""
+                    },
+                    "002": {
+                        "id": "1",
+                        "nrotel": "3",
+                        "ubicacion": "123"
+                    }
+                },
+                "Estado": "Inscrito"
+            }
+        },
+        "rutas": {},
+        "pruebas": {},
+        "salones": {},
+        "entrenadores": {}
+    }
+}
